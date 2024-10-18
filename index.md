@@ -16,7 +16,7 @@ layout: default
   <img src="assets/images/teaser.png" alt="Teaser Image" class="teaser-image">
 
   <p class="teaser-caption">
-  We introduce a new LiDAR generation model that generates diverse 4D scenes of large spatial scales (80×80×6.4 m³) <br>and long sequential modeling (up to 128 frames), enabling a diverse set of downstream applications.
+  We introduce a new LiDAR generation model that generates diverse 4D scenes of large spatial scales (80×80×6.4 m³) and long sequential modeling (up to 128 frames), enabling a diverse set of downstream applications.
   </p>
 </div>
 
@@ -32,16 +32,25 @@ LiDAR scene generation has been developing rapidly recently. However, existing m
 Extensive experiments on the CarlaSC and Waymo datasets demonstrate that DynamicCity significantly outperforms existing state-of-the-art 4D LiDAR generation methods across multiple metrics. The code will be released to facilitate future research.
 </div>
 
+## Method
+
+<div class="method-container">
+  <img src="assets/images/pipeline.png" alt="Pipeline Image" class="method-image">
+
+  <p class="method-caption">
+  Our <span class="highlight-pink">Dynamic</span><span class="highlight-blue">City</span> framework consists of two key procedures: <strong>(a)</strong> Encoding HexPlane with an VAE architecture, and <strong>(b)</strong> 4D Scene Generation with HexPlane DiT.
+  </p>
+</div>
+
 ## Dynamic Scene Generation Results
 
-### Unconditional Generation
+### 1. Unconditional Generation
 <div class="demo-section">
   <div class="video-row">
     <img src="assets/images/u_c_1.webp" alt="Unconditional Generation 1" class="video-small">
     <img src="assets/images/u_c_2.webp" alt="Unconditional Generation 2" class="video-small">
     <img src="assets/images/u_c_3.webp" alt="Unconditional Generation 3" class="video-small">
   </div>
-  <!-- <p class="video-caption">Unconditional Generation Result on CarlaSC</p> -->
   
   <div class="video-row">
     <img src="assets/images/u_w_1.webp" alt="Unconditional Generation 1" class="video-small">
@@ -50,7 +59,7 @@ Extensive experiments on the CarlaSC and Waymo datasets demonstrate that Dynamic
   </div>
 </div>
 
-### HexPlane Conditional Generation
+### 2. HexPlane Conditional Generation
 <div class="demo-section">
   <div class="video-row">
     <img src="assets/images/h_c_1.webp" alt="HexPlane Conditional Generation 1" class="video-small">
@@ -65,15 +74,16 @@ Extensive experiments on the CarlaSC and Waymo datasets demonstrate that Dynamic
   </div>
 </div>
 
-### Dynamic Scene Inpainting
+### 3. Command/Trajectory-Driven Generation
 <div class="demo-section">
   <div class="video-row">
-    <img src="assets/images/i_c_1.webp" alt="Dynamic Scene Inpainting 1" class="video-normal">
-    <img src="assets/images/i_c_2.webp" alt="Dynamic Scene Inpainting 2" class="video-normal">
+    <img src="assets/images/r_c_1.webp" alt="Command-Driven Generation 1" class="video-small">
+    <img src="assets/images/r_c_2.webp" alt="Command-Driven Generation 2" class="video-small">
+    <img src="assets/images/r_c_3.webp" alt="Command-Driven Generation 3" class="video-small">
   </div>
 </div>
 
-### Layout-Conditioned Generation
+### 4. Layout-Conditioned Generation
 <div class="demo-section">
   <div class="video-row">
     <img src="assets/images/l_c_1.webp" alt="Layout-Conditioned Generation 1" class="video-normal">
@@ -86,11 +96,10 @@ Extensive experiments on the CarlaSC and Waymo datasets demonstrate that Dynamic
   </div>
 </div>
 
-### Command/Trajectory-Driven Generation
+### 5. Dynamic Scene Inpainting
 <div class="demo-section">
   <div class="video-row">
-    <img src="assets/images/r_c_1.webp" alt="Command-Driven Generation 1" class="video-small">
-    <img src="assets/images/r_c_2.webp" alt="Command-Driven Generation 2" class="video-small">
-    <img src="assets/images/r_c_3.webp" alt="Command-Driven Generation 3" class="video-small">
+    <img src="assets/images/i_c_1.webp" alt="Dynamic Scene Inpainting 1" class="video-normal">
+    <img src="assets/images/i_c_2.webp" alt="Dynamic Scene Inpainting 2" class="video-normal">
   </div>
 </div>
