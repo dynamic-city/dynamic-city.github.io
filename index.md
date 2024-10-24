@@ -15,7 +15,7 @@ layout: default
     <i class="fas fa-home"></i> Homepage
   </a>
   <a href="https://github.com/dynamic-city/DynamicCity" target="_blank" rel="noopener noreferrer">
-    <i class="fab fa-github"></i> Code
+    <i class="fab fa-github"></i> Anonymous Code
   </a>
 </div>
 
