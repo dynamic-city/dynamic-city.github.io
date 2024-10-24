@@ -10,8 +10,6 @@ layout: default
   </h1>
 </div>
 
-<p class="author">Anonymous ICLR 25 submission</p>
-
 <div class="teaser-container">
   <img src="assets/images/teaser.png" alt="Teaser Image" class="teaser-image">
 
