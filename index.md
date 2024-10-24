@@ -11,9 +11,6 @@ layout: default
 </div>
 
 <div class="links">
-  <a href="https://dynamic-city.github.io" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-home"></i> Homepage
-  </a>
   <a href="https://github.com/dynamic-city/DynamicCity" target="_blank" rel="noopener noreferrer">
     <i class="fab fa-github"></i> Anonymous Code
   </a>
