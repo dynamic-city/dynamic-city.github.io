@@ -10,6 +10,21 @@ layout: default
   </h1>
 </div>
 
+<div class="links">
+  <a href="https://dynamic-city.github.io" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-home"></i> Homepage
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-file-pdf"></i> Paper
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <i class="ai ai-arxiv"></i> arXiv
+  </a>
+  <a href="https://github.com/dynamic-city/DynamicCity" target="_blank" rel="noopener noreferrer">
+    <i class="fab fa-github"></i> Code
+  </a>
+</div>
+
 <div class="teaser-container">
   <img src="assets/images/teaser.png" alt="Teaser Image" class="teaser-image">
 
