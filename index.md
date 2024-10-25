@@ -17,7 +17,7 @@ layout: default
 </div>
 
 <div class="teaser-container">
-  <img src="assets/images/teaser.png" alt="Teaser Image" class="teaser-image">
+  <img src="assets/images/teaser.webp" alt="Teaser Image" class="teaser-image">
 
   <p class="teaser-caption">
   We introduce a new LiDAR generation model that generates diverse 4D scenes of large spatial scales (80×80×6.4 m³) and long sequential modeling (up to 128 frames), enabling a diverse set of downstream applications.
