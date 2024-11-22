@@ -358,10 +358,10 @@ img, video {
 }
 
 .video-normal {
-    width: 43%;
+    width: 100%;
     height: auto;
-    margin: 0 1% 1em;
-}
+    margin: 0;
+  }
 
 .video-small {
     width: 28%;
@@ -369,12 +369,27 @@ img, video {
     margin: 0 1% 1em;
 }
 
-.video-caption {
+.video-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 43%;
+    margin: 0 1% 1em;
+  }
+  
+  .video-captions {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 0.5em;
+  }
+  
+  .caption-left, .caption-right {
+    width: 48%;
     text-align: center;
-    font-style: italic;
-    margin-bottom: 1.5em;
-    color: #555;
-}
+    font-size: 1em;
+    color: #666;
+  }
 
 .method-container {
     max-width: 100%;

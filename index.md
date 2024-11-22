@@ -5,7 +5,7 @@ layout: default
 <div class="title-container">
   <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/logo.png" alt="Logo" class="logo">
   <h1>
-    <span class="main-title"><span class="dynamic">Dynamic</span><span class="city">City</span>: Large-Scale LiDAR</span>
+    <span class="main-title"><span class="dynamic">Dynamic</span><span class="city">City</span>: Large-Scale Occupancy</span>
     <span class="main-title">Generation from Dynamic Scenes</span>
   </h1>
 </div>
@@ -52,11 +52,29 @@ Extensive experiments on the CarlaSC and Waymo datasets demonstrate that Dynamic
     <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_c_2.webp" alt="Unconditional Generation 2" class="video-small">
     <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_c_3.webp" alt="Unconditional Generation 3" class="video-small">
   </div>
+
+  <div class="video-row">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_1.webp" alt="Unconditional Generation 4" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_2.webp" alt="Unconditional Generation 5" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_3.webp" alt="Unconditional Generation 6" class="video-small">
+  </div>
+
+  <div class="video-row">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_4.webp" alt="Unconditional Generation 7" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_5.webp" alt="Unconditional Generation 8" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_6.webp" alt="Unconditional Generation 9" class="video-small">
+  </div>
+
+  <div class="video-row">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_7.webp" alt="Unconditional Generation 10" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_8.webp" alt="Unconditional Generation 11" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_u_c_9.webp" alt="Unconditional Generation 12" class="video-small">
+  </div>
   
   <div class="video-row">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_w_1.webp" alt="Unconditional Generation 1" class="video-small">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_w_2.webp" alt="Unconditional Generation 2" class="video-small">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_w_3.webp" alt="Unconditional Generation 3" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_w_1.webp" alt="Unconditional Generation 13" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_w_2.webp" alt="Unconditional Generation 14" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/u_w_3.webp" alt="Unconditional Generation 15" class="video-small">
   </div>
 </div>
 
@@ -69,9 +87,9 @@ Extensive experiments on the CarlaSC and Waymo datasets demonstrate that Dynamic
   </div>
   
   <div class="video-row">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/h_w_1.webp" alt="HexPlane Conditional Generation 1" class="video-small">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/h_w_2.webp" alt="HexPlane Conditional Generation 2" class="video-small">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/h_w_3.webp" alt="HexPlane Conditional Generation 3" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/h_w_1.webp" alt="HexPlane Conditional Generation 4" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/h_w_2.webp" alt="HexPlane Conditional Generation 5" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/h_w_3.webp" alt="HexPlane Conditional Generation 6" class="video-small">
   </div>
 </div>
 
@@ -82,26 +100,200 @@ Extensive experiments on the CarlaSC and Waymo datasets demonstrate that Dynamic
     <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/r_c_2.webp" alt="Command-Driven Generation 2" class="video-small">
     <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/r_c_3.webp" alt="Command-Driven Generation 3" class="video-small">
   </div>
+
+  <div class="video-row">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_c_c_1.webp" alt="Command-Driven Generation 4" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_c_c_2.webp" alt="Command-Driven Generation 5" class="video-small">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_c_c_3.webp" alt="Command-Driven Generation 6" class="video-small">
+  </div>
 </div>
 
 ### 4. Layout-Conditioned Generation
 <div class="demo-section">
   <div class="video-row">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_c_1.webp" alt="Layout-Conditioned Generation 1" class="video-normal">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_c_2.webp" alt="Layout-Conditioned Generation 2" class="video-normal">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_c_1.webp" alt="Layout-Conditioned Generation 1" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_c_2.webp" alt="Layout-Conditioned Generation 2" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_l_c_1.webp" alt="Layout-Conditioned Generation 3" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_l_c_2.webp" alt="Layout-Conditioned Generation 4" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_l_c_3.webp" alt="Layout-Conditioned Generation 5" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_l_c_4.webp" alt="Layout-Conditioned Generation 6" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_l_c_5.webp" alt="Layout-Conditioned Generation 7" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_l_c_6.webp" alt="Layout-Conditioned Generation 8" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
   </div>
   
   <div class="video-row">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_w_1.webp" alt="Layout-Conditioned Generation 1" class="video-normal">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_w_2.webp" alt="Layout-Conditioned Generation 2" class="video-normal">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_w_1.webp" alt="Layout-Conditioned Generation 9" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/l_w_2.webp" alt="Layout-Conditioned Generation 10" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Layout condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
   </div>
 </div>
 
 ### 5. Dynamic Scene Inpainting
 <div class="demo-section">
   <div class="video-row">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/i_c_1.webp" alt="Dynamic Scene Inpainting 1" class="video-normal">
-    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/i_c_2.webp" alt="Dynamic Scene Inpainting 2" class="video-normal">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/i_c_1.webp" alt="Dynamic Scene Inpainting 1" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before inpainting</div>
+        <div class="caption-right">After inpainting</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/i_c_2.webp" alt="Dynamic Scene Inpainting 2" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before inpainting</div>
+        <div class="caption-right">After inpainting</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_i_c_1.webp" alt="Dynamic Scene Inpainting 3" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before inpainting</div>
+        <div class="caption-right">After inpainting</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_i_c_2.webp" alt="Dynamic Scene Inpainting 4" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before inpainting</div>
+        <div class="caption-right">After inpainting</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_i_c_3.webp" alt="Dynamic Scene Inpainting 5" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before inpainting</div>
+        <div class="caption-right">After inpainting</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_i_c_4.webp" alt="Dynamic Scene Inpainting 6" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before inpainting</div>
+        <div class="caption-right">After inpainting</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+### 6. Dynamic Scene Outpainting
+<div class="demo-section">
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_o_c_1.webp" alt="Dynamic Scene Outpainting 1" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before outpainting</div>
+        <div class="caption-right">After outpainting</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_o_c_2.webp" alt="Dynamic Scene Outpainting 2" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Before outpainting</div>
+        <div class="caption-right">After outpainting</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+### 7. Single Occupancy Conditional Generation
+<div class="demo-section">
+  <div class="video-row">
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_single_1.webp" alt="Single Occupancy Conditional Generation 1" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Occupancy condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+    <div class="video-container">
+      <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_single_2.webp" alt="Single Occupancy Conditional Generation 2" class="video-normal">
+      <div class="video-captions">
+        <div class="caption-left">Occupancy condition</div>
+        <div class="caption-right">Result</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+### 8. 2D Evaluation Example
+<div class="demo-section">
+  <div class="video-row">
+    <img src="https://raw.githubusercontent.com/dynamic-city/dynamic-city.github.io/main/assets/images/R_eval.webp" alt="Evaluation 1" class="video-small">
   </div>
 </div>
 
