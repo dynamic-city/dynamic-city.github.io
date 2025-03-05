@@ -1,5 +1,5 @@
 <div class="links">
-  <a href="https://arxiv.org/abs/2410.18084v1" target="_blank" rel="noopener noreferrer">
+  <a href="https://arxiv.org/abs/2410.18084" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-file-pdf"></i> Arxiv
   </a>
   <a href="https://github.com/3DTopia/DynamicCity" target="_blank" rel="noopener noreferrer">
